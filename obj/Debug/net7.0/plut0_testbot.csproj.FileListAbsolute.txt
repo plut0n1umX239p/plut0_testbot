@@ -1,0 +1,15 @@
+/workspaces/plut0_testbot/bin/Debug/net7.0/plut0_testbot
+/workspaces/plut0_testbot/bin/Debug/net7.0/plut0_testbot.deps.json
+/workspaces/plut0_testbot/bin/Debug/net7.0/plut0_testbot.runtimeconfig.json
+/workspaces/plut0_testbot/bin/Debug/net7.0/plut0_testbot.dll
+/workspaces/plut0_testbot/bin/Debug/net7.0/plut0_testbot.pdb
+/workspaces/plut0_testbot/obj/Debug/net7.0/plut0_testbot.csproj.AssemblyReference.cache
+/workspaces/plut0_testbot/obj/Debug/net7.0/plut0_testbot.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/plut0_testbot/obj/Debug/net7.0/plut0_testbot.AssemblyInfoInputs.cache
+/workspaces/plut0_testbot/obj/Debug/net7.0/plut0_testbot.AssemblyInfo.cs
+/workspaces/plut0_testbot/obj/Debug/net7.0/plut0_testbot.csproj.CoreCompileInputs.cache
+/workspaces/plut0_testbot/obj/Debug/net7.0/plut0_testbot.dll
+/workspaces/plut0_testbot/obj/Debug/net7.0/refint/plut0_testbot.dll
+/workspaces/plut0_testbot/obj/Debug/net7.0/plut0_testbot.pdb
+/workspaces/plut0_testbot/obj/Debug/net7.0/plut0_testbot.genruntimeconfig.cache
+/workspaces/plut0_testbot/obj/Debug/net7.0/ref/plut0_testbot.dll

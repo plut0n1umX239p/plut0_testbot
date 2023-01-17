@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eFs+CrLMu5c31r8c9XZqAogBMVvivK9uv7hZjbC7kYf4Rajb7QXl5ZEEmOTKLfUJKACQ9N/BHOorWXf4VA+Rtg==",
+  "success": true,
+  "projectFilePath": "/workspaces/plut0_testbot/plut0_testbot.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/home/codespace/.nuget/packages/telegram.bot/18.0.0/telegram.bot.18.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
